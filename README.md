@@ -3,7 +3,7 @@
 
 ### 🚩 Problem Statement
 * I could be a more effective software developer:
-  * There are challenges I cannot solve;
+  * There are challenges I am unable solve;
   * and good work that is left undone
 
 ### 👁️ Vision
