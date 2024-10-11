@@ -1,12 +1,12 @@
-# Upskill Site ⬆️
-*Personal site for professional upskill*
+# Upskill Site
+⬆️ *Personal site for professional upskill*
 
-### Problem Statement
+### 🚩 Problem Statement
 * I could be a more effective software developer:
   * There are challenges I cannot solve;
   * and good work that is left undone
 
-### Vision
+### 👁️ Vision
 * Work to improve your craft:
   * Continuously learn new topics;
   * and build up a knowledge base on this site
