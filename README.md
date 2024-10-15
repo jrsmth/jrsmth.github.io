@@ -1,5 +1,5 @@
-# Upskill Site
-⬆️ *Personal [site](https://upskill.jrsmth.io) for professional upskill*
+# Upskill
+⬆️ *Personal [space](https://upskill.jrsmth.io) for professional upskill*
 
 ### 🚩 Problem Statement
 * I could be a more effective software developer:
