@@ -1,5 +1,4 @@
-# Upskill
-⬆️ *Personal [space](https://upskill.jrsmth.io) for professional upskill*
+# Upskill ⬆️
 
 ### 🚩 Problem Statement
 * I could be a more effective software developer:
